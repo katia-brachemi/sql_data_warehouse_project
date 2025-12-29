@@ -1,6 +1,7 @@
 # Data Warehouse & Analytics Portfolio
 
 Welcome to my portfolio repository!  
+
 This project is based on a tutorial I followed to learn the fundamentals of data warehousing and analytics.  
 I worked with the same dataset as the tutorial, but extended the project by adding my own SQL queries, documentation, and analysis to highlight my personal learning journey.  
 By combining the tutorial’s foundation with my own enhancements, this project reflects both my ability to learn from industry resources and to apply those skills independently.
