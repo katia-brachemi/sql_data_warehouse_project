@@ -125,11 +125,11 @@ BEGIN
 
 
 		SET @start_time = GETDATE();
-		PRINT'>> Truncating Table: bronze.erp_px_dat_g1v2';
-		TRUNCATE TABLE bronze.erp_px_dat_g1v2;
+		PRINT'>> Truncating Table: bronze.erp_px_cat_g1v2';
+		TRUNCATE TABLE bronze.erp_px_cat_g1v2;
 	
-		PRINT'>> Inserting Data Into: bronze.erp_px_dat_g1v2';
-		BULK INSERT bronze.erp_px_dat_g1v2
+		PRINT'>> Inserting Data Into: bronze.erp_px_cat_g1v2';
+		BULK INSERT bronze.erp_px_cat_g1v2
 		FROM 'C:\Users\PC\OneDrive\Documents\Portofolio\SQL Data Warehouse\sql-data-warehouse-project\datasets\source_erp\PX_CAT_G1V2.csv'
 		WITH( 
 			FIRSTROW = 2,
