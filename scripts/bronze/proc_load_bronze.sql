@@ -17,7 +17,7 @@ Parameters:
   This procedure does not accept parameters or return values.
 
 Usage:
-  EXEC bronze.load_bronze
+  EXEC bronze.load_bronze;
 =========================================================== 
 */
 
