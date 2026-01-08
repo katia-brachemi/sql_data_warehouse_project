@@ -6,7 +6,7 @@ Purpose: Contains customer profiles with demographic attributes and geographic
          context. 
 
 Columns: 
-|:----------------|:----------------:|--------------------------------------------------------------------------------------------:|
+
 | Column Name     |    Data Type     |     Description                                                                             |
 |:----------------|:----------------:|--------------------------------------------------------------------------------------------:|
 | customer_key    | INT              | Internal surrogate key that uniquely identifies each customer entry in the dimension table. |
