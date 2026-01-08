@@ -21,6 +21,8 @@
 
 
 
+
+
 2. gold.dim_products:
    
 ● Purpose: Contains information about products and their attributes.
@@ -40,6 +42,8 @@
 | cost            | INT           | Base price of the product in standard currency units.                                       |
 | product_line    | NVARCHAR(50)  | Series or collection the product belongs to (e.g., Road, Mountain).                         |
 | start_date      | DATE          | Launch date when the product became available for sale or use.                              |
+
+
 
 
 
