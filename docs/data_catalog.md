@@ -1,4 +1,8 @@
-📘 ** Data Catalog – Gold Layer**
+# Overview:
+The Gold Layer represents business-ready data, organized into dimension and fact tables to support reporting and analytics.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+## Data Catalog – Gold Layer
 
 1. **gold.dim_customers** 
 
