@@ -8,10 +8,10 @@ and analysis.
   It includes:
    • gold.dim_customers  → Customer profiles enriched with demographics and geography
    • gold.dim_products   → Product attributes and classifications
-  • gold.fact_sales      → Transactional sales facts linked to customers and products
+   • gold.fact_sales      → Transactional sales facts linked to customers and products
 
  Key Features:
-  • DROP VIEW IF EXISTS to ensure safe re-execution without conflicts
+   • DROP VIEW IF EXISTS to ensure safe re-execution without conflicts
    • Surrogate keys generated via ROW_NUMBER() for uniqueness
    • Dimension tables refined with consistent attributes and clear naming conventions
    • Sales facts joined with dimension keys for complete analytical context
