@@ -1,10 +1,10 @@
-📘 **Data Catalog – Gold Layer** 
+📘 ## Data Catalog – Gold Layer
 
-1. gold.dim_customers 
+1. **gold.dim_customers** 
 
-● Purpose: Contains customer profiles with demographic attributes and geographic context. 
+● **Purpose**: Contains customer profiles with demographic attributes and geographic context. 
 
-● Columns: 
+● **Columns**: 
 
 | Column Name     | Data Type     | Description                                                                                 |
 |:----------------|:-------------:|---------------------------------------------------------------------------------------------|
@@ -23,11 +23,11 @@
 
 
 
-2. gold.dim_products:
+2. **gold.dim_products**
    
-● Purpose: Contains information about products and their attributes.
+● **Purpose**: Contains information about products and their attributes.
 
-● Columns: 
+● **Columns**: 
 
 | Column Name     | Data Type     | Description                                                                                 |
 |:----------------|:-------------:|---------------------------------------------------------------------------------------------|
@@ -47,11 +47,11 @@
 
 
 
-3. gold.fact_sales:
+3. **gold.fact_sales**
    
-● Purpose: Records sales order transactions for business reporting and performance analysis.
+● **Purpose**: Records sales order transactions for business reporting and performance analysis.
 
-● Columns: 
+● **Columns**: 
 
 | Column Name     | Data Type     | Description                                                                                 |
 |:----------------|:-------------:|---------------------------------------------------------------------------------------------|
