@@ -1,4 +1,4 @@
-📘 ## Data Catalog – Gold Layer
+📘 **# Data Catalog – Gold Layer**
 
 1. **gold.dim_customers** 
 
