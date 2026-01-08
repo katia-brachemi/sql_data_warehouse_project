@@ -4,7 +4,7 @@ The Gold Layer represents business-ready data, organized into dimension and fact
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## Data Catalog – Gold Layer
 
-# 1. gold.dim_customers
+### 1. gold.dim_customers
 
 ● **Purpose**: Contains customer profiles with demographic attributes and geographic context. 
 
@@ -27,7 +27,7 @@ The Gold Layer represents business-ready data, organized into dimension and fact
 
 
 
-# 2. gold.dim_products
+### 2. gold.dim_products
    
 ● **Purpose**: Contains information about products and their attributes.
 
@@ -51,7 +51,7 @@ The Gold Layer represents business-ready data, organized into dimension and fact
 
 
 
-# 3. gold.fact_sales
+### 3. gold.fact_sales
    
 ● **Purpose**: Records sales order transactions for business reporting and performance analysis.
 
