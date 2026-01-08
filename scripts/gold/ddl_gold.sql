@@ -6,8 +6,8 @@ Script Purpose:
 This script defines the Gold Layer of the data warehouse, creating business-ready dimension and fact views for reporting
 and analysis. 
   It includes:
-   • gold.dim_customers  → Customer profiles enriched with demographics and geography
-   • gold.dim_products   → Product attributes and classifications
+   • gold.dim_customers   → Customer profiles enriched with demographics and geography
+   • gold.dim_products    → Product attributes and classifications
    • gold.fact_sales      → Transactional sales facts linked to customers and products
 
  Key Features:
