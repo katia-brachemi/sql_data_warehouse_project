@@ -37,7 +37,7 @@ Develop SQL-based analytics to deliver detailed insights into:
   ----
 
 ## Credits
-This project builds on the tutorial "[SQL Data Warehouse from Scratch](https://youtu.be/9GVqKuTVANE?si=b8bYYZjKV37EPMxt)" by Baraa Khatib Salkini.  The dataset and initial structure come from the tutorial, but I extended the work with custom SQL queries, documentation, and analysis.
+This project builds on the tutorial "[SQL Data Warehouse from Scratch](https://youtu.be/9GVqKuTVANE?si=b8bYYZjKV37EPMxt)" by Baraa Khatib Salkini.  The dataset and initial structure come from the tutorial, but I extended the work with my own documentation and analysis.
 
 
 ## License
