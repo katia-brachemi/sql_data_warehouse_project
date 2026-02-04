@@ -12,7 +12,7 @@ DDL Script : Create Silver Tables
  ============================================================ 
 
 
-/*
+*/
 
 
 CREATE TABLE silver.crm_cust_info(
